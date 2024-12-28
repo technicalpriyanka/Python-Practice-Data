@@ -29,7 +29,7 @@ for character in ans:
 #slicing
 print(ans[0:5])
 
-print(len(ans))
+print(len(ans))        #length of string
 
 #rstrip remove trailing characters
 print(ans.rstrip("!"))
